@@ -15,6 +15,7 @@ body {
   width: 80%;
   max-width: 650px;
   margin-inline: auto;
+  justify-content: center;
 }
 
 h1 {
